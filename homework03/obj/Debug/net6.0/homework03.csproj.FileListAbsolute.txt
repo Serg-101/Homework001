@@ -1,0 +1,15 @@
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.csproj.AssemblyReference.cache
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.AssemblyInfoInputs.cache
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.AssemblyInfo.cs
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.csproj.CoreCompileInputs.cache
+C:\Code\Examples\homework03\bin\Debug\net6.0\homework03.exe
+C:\Code\Examples\homework03\bin\Debug\net6.0\homework03.deps.json
+C:\Code\Examples\homework03\bin\Debug\net6.0\homework03.runtimeconfig.json
+C:\Code\Examples\homework03\bin\Debug\net6.0\homework03.dll
+C:\Code\Examples\homework03\bin\Debug\net6.0\homework03.pdb
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.dll
+C:\Code\Examples\homework03\obj\Debug\net6.0\refint\homework03.dll
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.pdb
+C:\Code\Examples\homework03\obj\Debug\net6.0\homework03.genruntimeconfig.cache
+C:\Code\Examples\homework03\obj\Debug\net6.0\ref\homework03.dll
