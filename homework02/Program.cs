@@ -1,4 +1,10 @@
-﻿Console.Write("Введите число a -> ");
+﻿//
+//
+//Задача 2: Напишите программу, которая принимает на
+//вход три числа и выдаёт максимальное из этих чисел.
+//
+//
+Console.Write("Введите число a -> ");
 int a = int.Parse(Console.ReadLine());
 Console.Write("Введите число b -> ");
 int b = int.Parse(Console.ReadLine());
